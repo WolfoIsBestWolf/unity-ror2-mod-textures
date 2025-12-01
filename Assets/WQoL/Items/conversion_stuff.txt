@@ -1,0 +1,7 @@
+Boss Equip Settings.
++15 Hue
+
+Lunar Outline Settings;
++20 hue
++0 saturation
++10 brightness
